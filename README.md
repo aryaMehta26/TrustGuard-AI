@@ -1,4 +1,4 @@
-# 🛡️ TrustGuard AI: Enterprise Fake Review Detection & Recommendation System
+# 🛡️ TrustGuard AI: Amazon Fake Review Detection & Recommendation System
 
 <div align="center">
   <img width="100%" alt="TrustGuard Dashboard" src="https://github.com/user-attachments/assets/4199fd51-f795-4dfc-815b-0fa2c1753492" />
